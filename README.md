@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un test de PrepCourse
+Este es un test de
